@@ -19,8 +19,9 @@
 5.DATABASE EXTRACTION LINK:
 http://localhost:8091/h2-console/login.do?jsessionid=feccb092d17e553983d0b0fbafba547f
 
-SQL COMMAND:SELECT * FROM USERS;
-
+SQL COMMAND:
+SELECT * FROM USERS;
+SELECT * FROM MEDICINES;
 ## Features
 - **Medicine Tracker**: Saves medicines with time/frequency. Notifications trigger at the exact time.
 - **Water, Steps, Sleep**: Track daily logs and persist to database.
@@ -36,5 +37,6 @@ SQL COMMAND:SELECT * FROM USERS;
 ## Troubleshooting
 - If you see `mvn not found`, please install Maven or run via your IDE's "Run" button.
 - If audio doesn't play, ensure you have adjusted the browser permission to allow "Auto-play" or clicked anywhere on the page at least once.
+
 
 
