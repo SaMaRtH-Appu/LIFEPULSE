@@ -14,7 +14,8 @@
    ```
 4. Once started, open your browser and go to:
    ```
-   http://localhost:8080
+   file:///C:/Users/datma/Desktop/java%20mini%20project/src/main/resources/static/index.html
+   
    ```
 
 ## Features
@@ -32,3 +33,4 @@
 ## Troubleshooting
 - If you see `mvn not found`, please install Maven or run via your IDE's "Run" button.
 - If audio doesn't play, ensure you have adjusted the browser permission to allow "Auto-play" or clicked anywhere on the page at least once.
+
